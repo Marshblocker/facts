@@ -4,8 +4,11 @@
 ![Sample Image 1](./misc/sample1.png "Sample Image 1")
 ![Sample Image 2](./misc/sample2.png "Sample Image 2")
 
-## Note
-This program is currently available to Windows OS only.
+## Notes
+* facts is currently available to Windows OS only.
+* Building `facts` overwrites the content of the `PYTHONSTARTUP` system environment
+  variable to the filepath of `main.py`. Check if `PYTHONSTARTUP` is assigned to
+  a necessary Python script before setting up `facts`.
 
 ## Setup
 1. Make sure you have Python installed, preferably Python 3+. Visit 
