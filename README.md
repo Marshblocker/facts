@@ -8,7 +8,7 @@
 * *facts* is currently available to Windows OS only.
 * Building *facts* overwrites the content of the `PYTHONSTARTUP` system environment
   variable to the filepath of `main.py`. Check if `PYTHONSTARTUP` is assigned to
-  a necessary Python script before setting up *facts*.
+  a necessary Python script before building *facts*.
 
 ## Setup
 1. Make sure you have Python installed, preferably Python 3+. Visit 
@@ -20,15 +20,15 @@
 
 3. Run `cmd` as an Administrator (**Important**) and, within 
    `your/local/directory/facts/`, execute `python build.py`. 
-   If you change the location of the `facts` directory, you need to repeat 
-   this step.
+   If ever you will change the location of the `facts` directory, you always 
+   need to repeat this step.
 
 4. Setup is done. *facts* will run everytime you enter `python` in `cmd` or
    open the built-in Python shell. 
 
 ## Acknowledgements
 
-Content of `facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
+Contents of `facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
 
 ## License
 *facts* is released under the [MIT License](https://opensource.org/licenses/MIT).
