@@ -15,4 +15,3 @@ def setup() -> None: # Sets the PYTHONSTARTUP to the absolute path of /src/main.
 
 if __name__ == '__main__':
 	setup()
-
