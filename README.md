@@ -1,5 +1,5 @@
 # facts
-### Learn a random fact whenever you open a Python Interactive Environment.
+### Learn a random fact whenever you open a Python interpreter.
 
 ![Sample Image 1](./misc/sample1.png "Sample Image 1")
 ![Sample Image 2](./misc/sample2.png "Sample Image 2")
@@ -23,8 +23,7 @@
    If ever you will change the location of the `facts` directory, you **always 
    need to repeat this step**<sup>[1](#f1)</sup>.
 
-4. Setup is done. *facts* will run everytime you enter `python` in `cmd` or
-   open the built-in Python shell. 
+4. Setup is done. *facts* will run everytime you use a Python interpreter.
 
 ## Acknowledgements
 
