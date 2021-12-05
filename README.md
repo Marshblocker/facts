@@ -33,6 +33,8 @@ Contents of `/src/facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https:
 ## License
 *facts* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+
+---
 <sub><sup>
 <b id="f1">1</b> 
       If you do not repeat step 3, the interpreter will not see the updated
