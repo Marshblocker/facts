@@ -18,7 +18,7 @@
 2. Clone this repo within your local directory via 
    `git clone https://github.com/Marshblocker/facts`.
 
-3. (**Important**) Run `cmd` as an Administrator and, within 
+3. (**Important**) Run `cmd` as an Administrator and, `cd` to 
    `your/local/directory/facts/`, execute `python build.py`, then exit `cmd`.
    If ever you will change the location of the `facts` directory, you **always 
    need to repeat this step.**
