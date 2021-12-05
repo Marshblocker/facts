@@ -1,6 +1,3 @@
-# NOTE: Before running this program in the Command Prompt, make sure that
-#       the Command Prompt is 'Run as Administrator'.
-
 from os import system, path
 from src import main
 
