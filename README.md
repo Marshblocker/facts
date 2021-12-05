@@ -21,7 +21,7 @@
 3. (**Important**) Run `cmd` as an Administrator and, `cd` to 
    `your/local/directory/facts/`, execute `python build.py`, then exit `cmd`.
    If ever you will change the location of the `facts` directory, you **always 
-   need to repeat this step**<sup id="a1">[1](#f1)</sup>.
+   need to repeat this step**<sup>[1](#f1)</sup>.
 
 4. Setup is done. *facts* will run everytime you enter `python` in `cmd` or
    open the built-in Python shell. 
@@ -39,5 +39,4 @@ Contents of `/src/facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https:
 <b id="f1">1</b> 
       If you do not repeat step 3, the interpreter will not see the updated
       filepath of `main.py` and will raise a FileNotFoundError. 
-[↩](#a1)
 </sup></sub>
