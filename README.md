@@ -28,7 +28,7 @@
 
 ## Acknowledgements
 
-Contents of `facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
+Contents of `/src/facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
 
 ## License
 *facts* is released under the [MIT License](https://opensource.org/licenses/MIT).
