@@ -26,5 +26,9 @@
 4. Setup is done. *facts* will run everytime you enter `python` in `cmd` or
    open the built-in Python shell. 
 
+## Acknowledgements
+
+Content of `facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
+
 ## License
 *facts* is released under the [MIT License](https://opensource.org/licenses/MIT).
