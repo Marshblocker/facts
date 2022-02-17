@@ -11,19 +11,15 @@
   a necessary Python script before building *facts*.
 
 ## Setup
-1. Make sure you have Python installed, preferably Python 3+. Visit 
-   [this link](https://www.python.org/downloads/) to download the latest version
-   of Python.
-
-2. Clone this repo within your local directory via 
+1. Clone this repo within your local directory via 
    `git clone https://github.com/Marshblocker/facts`.
 
-3. (**Important**) Run `cmd` as an Administrator, `cd` to 
-   `your/local/directory/facts/`, execute `python build.py`, then exit `cmd`.
-   If ever you will change the location of the `facts` directory, you **always 
+2. (**Important**) Run the command-line (`cmd`/`Powershell`) as an Administrator, `cd` to 
+   `your/local/directory/facts/`, run `python build.py`, then exit the command-line.
+   **If ever you will change the location of the `facts` directory, you always 
    need to repeat this step**<sup>[1](#f1)</sup>.
 
-4. Setup is done. *facts* will run everytime you use a Python interpreter.
+3. Setup is done. *facts* will run everytime you use a Python interpreter.
 
 ## Acknowledgements
 
