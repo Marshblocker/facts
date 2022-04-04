@@ -16,22 +16,14 @@
 
 2. (**Important**) Run the command-line (`cmd`/`Powershell`) as an Administrator, `cd` to 
    `your/local/directory/facts/`, run `python build.py`, then exit the command-line.
-   **If ever you will change the location of the `facts` directory, you always 
-   need to repeat this step**<sup>[1](#f1)</sup>.
+   **Note:** Whenever the path of the `facts` directory changes, you always 
+   need to repeat step 2.
 
 3. Setup is done. *facts* will run everytime you use a Python interpreter.
 
 ## Acknowledgements
 
-Contents of `/src/facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt). Thanks.
+Contents of `/src/facts_pool.txt` forked from [assaf's dailyhi/facts.txt](https://github.com/assaf/dailyhi/blob/master/facts.txt).
 
 ## License
 *facts* is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-
----
-<sub><sup>
-<b id="f1">1</b> 
-      If you do not repeat step 3, the interpreter will not see the updated
-      filepath of `main.py` and will raise a FileNotFoundError. 
-</sup></sub>
